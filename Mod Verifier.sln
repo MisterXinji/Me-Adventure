@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod Verifier", "Mod Verifier\Mod Verifier.csproj", "{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Setup", "Setup\Setup.aiproj", "{DB831DE0-E14E-4A5A-A55A-208765DF0327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.All|Any CPU.Build.0 = Debug|Any CPU
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C3D2E9-B9EB-4343-A13C-A79AA3200612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.All|Any CPU.ActiveCfg = DefaultBuild
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.All|Any CPU.Build.0 = DefaultBuild
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.Debug|Any CPU.Build.0 = DefaultBuild
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{DB831DE0-E14E-4A5A-A55A-208765DF0327}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76ABA2B2-4E4D-4072-8358-EBB4CDC08CB4}
+	EndGlobalSection
+EndGlobal
